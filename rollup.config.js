@@ -9,10 +9,6 @@ export default {
       format: 'cjs',
     },
     {
-      file: 'lib/index.es.js',
-      format: 'es',
-    },
-    {
       file: 'lib/index.umd.js',
       format: 'umd',
       name: 'IDB',
